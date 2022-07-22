@@ -1,6 +1,8 @@
 # Analyst-Toolkit
 Toolkit for IPs and URLs analysis.
 
+#[DOWNLOAD](https://github.com/mr-umar/Analyst-Toolkit/releases/download/V1.0/Analyst.Toolkit-1.0-win64.msi)
+
 #### Compatile with Windows currently!
 
 ![Screenshot](https://i.ibb.co/54VcMsL/image.png)
