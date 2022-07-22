@@ -1,4 +1,35 @@
 # Analyst-Toolkit
 Toolkit for IPs and URLs analysis.
 
-##### Compatile with Windows currently!
+#### Compatile with Windows currently!
+
+![Screenshot]([http://url/to/img.png](https://i.ibb.co/54VcMsL/image.png))
+
+### Domain Lookups
+- Virustotal: "https://www.virustotal.com/"
+- URLVoid: "https://www.urlvoid.com/"
+- URLScan: "https://urlscan.io/"
+- Scuri: "https://sitecheck.sucuri.net/"
+
+
+
+### IP Lookups
+- AbuseIPDB: "https://www.abuseipdb.com/"
+- VirusTotal: "https://www.virustotal.com/"
+- DNSLytics: "https://www.dnslytics.com/" | Limited to a few daily searches
+- TalosIntelligence: "https://talosintelligence.com"
+- ChechPhish: "https://checkphish.ai/"
+
+
+### URL Access simulator
+- Browserling: "https://www.browserling.com/" | Limited to 3 minutes/search
+
+
+### Link Sanytizer 
+
+Converts ```https://github.com/``` to ```hXXps://github[.]com/``` to avoid missclicks.
+
+### Save your work
+
+Save as text file all your searches.
+
