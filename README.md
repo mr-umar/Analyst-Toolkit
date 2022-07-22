@@ -3,7 +3,7 @@ Toolkit for IPs and URLs analysis.
 
 #### Compatile with Windows currently!
 
-![Screenshot]([http://url/to/img.png](https://i.ibb.co/54VcMsL/image.png))
+![Screenshot](https://i.ibb.co/54VcMsL/image.png)
 
 ### Domain Lookups
 - Virustotal: "https://www.virustotal.com/"
