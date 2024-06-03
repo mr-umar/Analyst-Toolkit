@@ -1,7 +1,9 @@
+
+<span style="color:blue">
 | :warning: READ ME :warning:           |
 |:----------------------------|
 | I did this project to learn about GUI in Python as a hobby, that's why the final app is not signed. Also, the program may contain some errors, such as inaccurate scalling of the windows. Some day may I do a newer and better version. 😁     |
-
+text</span>
 
 # Analyst-Toolkit
 Toolkit for IPs and URLs analysis.
