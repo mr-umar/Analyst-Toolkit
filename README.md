@@ -3,6 +3,11 @@ Toolkit for IPs and URLs analysis.
 
 [DOWNLOAD V1.1](https://github.com/mr-umar/Analyst-Toolkit/releases/download/V1.1/Analyst.Toolkit-1.1-win64.msi)
 
+| :warning: READ ME ⬇️           |
+|:----------------------------|
+| I did this project to learn about GUI in Python as a hobby, that's why the final app is not signed. Also, the program may contain some errors, such as inaccurate scalling of the windows. 😊     |
+
+
 #### Compatile with Windows currently!
 
 ![Screenshot](https://i.ibb.co/54VcMsL/image.png)
