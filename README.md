@@ -9,7 +9,7 @@ Toolkit for IPs and URLs analysis.
 
 [DOWNLOAD V1.1](https://github.com/mr-umar/Analyst-Toolkit/releases/download/V1.1/Analyst.Toolkit-1.1-win64.msi)
 
-#### Compatile with Windows currently!
+#### Compatible with Windows currently!
 
 ![Screenshot](https://i.ibb.co/54VcMsL/image.png)
 
